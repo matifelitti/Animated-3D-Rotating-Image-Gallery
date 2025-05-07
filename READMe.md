@@ -29,8 +29,8 @@ A visually engaging **3D image carousel** built with pure **HTML** and **CSS**. 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/matifelitti/3d-image-gallery.git
-cd 3d-image-gallery
+git clone https://github.com/matifelitti/Animated-3D-Rotating-Image-Gallery.git
+cd 3D-Rotating-Image-Gallery
 ```
 
 ### 2. Open the gallery
