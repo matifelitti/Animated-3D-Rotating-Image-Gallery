@@ -17,6 +17,24 @@ A visually engaging **3D image carousel** built with pure **HTML** and **CSS**. 
 
 ---
 
+## 📂 Project Structure
+
+```
+📁 project-folder/
+├── 1.jpeg
+├── 2.jpeg
+└── 3.jpeg
+└── 4.jpeg
+└── 5.jpeg
+└── 6.jpeg
+└── 7.jpeg
+└── 8.jpeg
+└── index.html
+└── README.md
+└── styles.css
+
+```
+
 ## 🛠 Technologies Used
 
 - **HTML5** — for structure
@@ -30,7 +48,7 @@ A visually engaging **3D image carousel** built with pure **HTML** and **CSS**. 
 
 ```bash
 git clone https://github.com/matifelitti/Animated-3D-Rotating-Image-Gallery.git
-cd 3D-Rotating-Image-Gallery
+cd Animated-3D-Rotating-Image-Gallery
 ```
 
 ### 2. Open the gallery
